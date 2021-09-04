@@ -7,9 +7,15 @@ We are currently contributing to several open sources projects.<br /><br /><br /
 https://github.com/pmndrs/react-three-next
 <br /><br />
 
+
+## Blender GLTF Export
+*utilies panel for GLTF in Blender*
+https://github.com/utsuboco/blender_gltf_scripts
+<br /><br />
+
 ## R3F Perf
 *Easily monitor the performances of your @react-three/fiber application.*<br>
-https://github.com/RenaudRohlinger/r3f-perf
+https://github.com/utsuboco/r3f-perf
 <br /><br />
 
 ## Three-material-editor
