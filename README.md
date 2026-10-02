@@ -34,7 +34,6 @@ Our team builds and contributes to tools for the real-time graphics community. P
 | [r3f-perf](https://github.com/utsuboco/r3f-perf) | Performance monitoring for React Three Fiber applications using WebGL. |
 | [react-three-next](https://github.com/pmndrs/react-three-next) | A starter for Next.js, React Three Fiber, and Three.js. |
 | [Blender glTF tools](https://github.com/utsuboco/blender_gltf_scripts) | Blender utilities for glTF export, camera animation baking, and GPU instancing. |
-| [three-material-editor](https://github.com/RenaudRohlinger/three-material-editor) | Live GLSL shader editing for Three.js materials. |
 
 ## Get in touch
 
